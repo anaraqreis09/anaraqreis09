@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Way9e
+- 👋 Hi, I’m @anaraqreis09
 - 👀 I’m interested in Python and C# mainly, but I'm starting to get into front-end development :p
 - 📫 Send me an email (anaraquelvinhasreis02@gmail.com) if you wanna reach me
 - ⚡ Fun fact: Did you know that red pandas were named before the giant panda? (aka *the* panda)
